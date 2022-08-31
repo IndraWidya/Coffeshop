@@ -1,7 +1,11 @@
 <footer class="footer py-4">
             <div class="container">
                 <div class="row align-items-center">
+<<<<<<< HEAD
                     <div class="col-lg-4 text-lg-start">Copyright &copy; L'Espresso 2022</div>
+=======
+                    <div class="col-lg-4 text-lg-start">Copyright &copy; Your Website 2022</div>
+>>>>>>> a03c00ca0d55f94fb875584a6692caa8a945aa5b
                     <div class="col-lg-4 my-3 my-lg-0">
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>

@@ -6,7 +6,14 @@ class Login extends Controller {
         if(!isset($_SESSION['user']))
         {
             $data['title'] = 'Login';
+<<<<<<< HEAD
             $this->view('Login/index');
+=======
+
+            $this->view('Templates/header', $data);
+            $this->view('Login/index');
+            $this->view('Templates/footer');
+>>>>>>> a03c00ca0d55f94fb875584a6692caa8a945aa5b
         }
         else
         {
