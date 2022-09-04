@@ -1,1 +1,1 @@
-<h1>hash_init</h1>
+<h1>INI MENU ANJAY</h1>

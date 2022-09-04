@@ -14,8 +14,8 @@
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="/css/styles.css" rel="stylesheet" />
-        <link href="/css/home.css" rel="stylesheet" />
+        <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/home.css" rel="stylesheet" />
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -29,10 +29,10 @@
 
                 <div class="collapse navbar-collapse ms-5" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-5 py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="../menu/index.php">MENU</a></li>
-                        <li class="nav-item"><a class="nav-link" href="../order/">ORDER</a></li>
-                        <li class="nav-item"><a class="nav-link" href="../about/">About US</a></li>
-                        <li class="nav-item"><a class="nav-link" href="../contact/">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="<?= BASE_URL?>/menu">MENU</a></li>
+                        <li class="nav-item"><a class="nav-link" href="<?= BASE_URL?>/order ">ORDER</a></li>
+                        <li class="nav-item"><a class="nav-link" href="<?= BASE_URL?>/about/">About US</a></li>
+                        <li class="nav-item"><a class="nav-link" href="<?= BASE_URL?>/contact/">Contact</a></li>
                     </ul>
                 </div>
                 <ul class="navbar-nav text-uppercase py-4 py-lg-0 d-flex justify-content-end ">
